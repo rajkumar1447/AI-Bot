@@ -2,6 +2,12 @@
 # rasa==3.6.21
 
 # Required Packages.
+langchain
+langchain-community
+bs4
+pypdf
+chromadb
+faiss-cpu
 # keybert==0.9.0
 # flask==3.1.1
 # SpeechRecognition==3.14.3
