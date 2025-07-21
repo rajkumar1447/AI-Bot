@@ -1,4 +1,4 @@
-# 🛡️ Rasa Insurance Assistant Bot
+# 🛡️ Rasa AI Bot
 
 ---
 
