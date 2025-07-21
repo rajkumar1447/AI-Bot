@@ -1,4 +1,4 @@
-# 🛡️ Rasa AI Bot
+# 🛡️ AI Chat Bot
 
 ---
 
