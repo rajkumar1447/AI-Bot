@@ -48,9 +48,11 @@ pip install -r requirements.txt
 command for run the front end:  ng serve -o
 command for run the debug mode: rasa run --enable-api --cors "*" --debug
 command for run the rasa: rasa run actions
+command to run the llm: ollama run llama2
  -->
 
 
 <!-- 
 command to train the rasa model: rasa train --domain data/domain/ 
+$env:Path += ";C:\Users\Rajkumar Rishi\AppData\Local\Programs\Ollama"
  -->
