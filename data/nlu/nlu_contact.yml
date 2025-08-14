@@ -1,0 +1,81 @@
+version: "3.1"
+nlu:
+- intent: provide_phone_number
+  examples: |
+    - My number is 9876543210
+    - It’s 9876543210
+    - contact: 9988776655
+    - 9123456789
+    - You can reach me at 9876543210
+    - Please call me on 9876543210
+    - My mobile is 9876543210
+    - My phone number is 9876543210
+
+- intent: ask_address
+  examples: |
+    - What is your office location?
+    - Where are you located?
+    - Office address?
+    - What is your office location?
+    - Where are you located?
+    - Office address?
+    - Can you share your office address?
+    - What is your company address?
+    - Where is your head office?
+    - Where is your branch located?
+    - Where can I find your office?
+    - Share your company location
+    - Tell me your office location
+    - What’s the physical address of your office?
+    - I want to visit your office, where is it?
+    - What’s your location?
+    - Where is your corporate office located?
+    - Head office location?
+    - Give me your address
+    - How do I reach your office?
+    - I want the address of your company
+    - Location of your office please
+    - Where can I come to meet your team?
+
+
+
+- intent: ask_email
+  examples: |
+    - What is your email address?
+    - Can I get your contact email?
+    - I need the support email
+    - Share your email ID
+    - Where can I send an email?
+    - How can I contact your office?
+    - Give me the customer care email
+    - What is your official email ID?
+    - Tell me the email ID for support
+    - Do you have a helpdesk email?
+    - I want to email your team
+    - Office email please
+    - Email address of your company?
+    - Can I have the email for customer service?
+    - How do I reach you by email?
+    - How can I reach you?
+    - How do I contact you?
+    - I want to talk to someone from your office
+    - Can I call your office?
+    - What's your phone number?
+    - How do I get in touch with support?
+    - Share your office contact details
+    - I need your contact number
+    - How can I reach your team?
+    - How do I connect with someone from your company?
+    - Can I speak with someone?
+    - Tell me how to contact your office
+    - Provide your office contact information
+    - Where can I find your contact info?
+    - How can I get in touch with your company?
+
+- intent: ask_phone
+  examples: |
+    - What is your phone number?
+    - How can I call you?
+    - Give me the contact number.
+
+

@@ -1,0 +1,15 @@
+version: "3.1"
+
+stories:
+  - story: Ask address
+    steps:
+      - intent: ask_address
+      - action: utter_ask_address
+
+
+  - story: Ask phone number
+    steps:
+      - intent: ask_phone
+      - action: utter_ask_phone
+
+

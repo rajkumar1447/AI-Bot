@@ -1,0 +1,21 @@
+version: "3.1"
+
+nlu:
+- intent: thank_you
+  examples: |
+    - thanks
+    - thanks a lot
+    - thankyou
+    - I appreciate it
+    - Appreciate that
+    - Many thanks
+    - see you soon
+    - Much obliged
+    - Thank you so much
+    - I'm grateful
+
+- intent: ask_support
+  examples: |
+    - Do you offer training or support?
+    - What kind of customer support do you offer?
+    - Is training included?

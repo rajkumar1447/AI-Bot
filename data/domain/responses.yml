@@ -1,0 +1,8 @@
+version: "3.1"
+ 
+responses:
+  utter_greet:
+    - text: "Hi there! I'm Coovum's Virtual Assistant. How can I support you today?"
+    - text: "Welcome to Coovum! I'm here to help you with anything you need. What would you like to explore?"
+    - text: "Hello! I'm your Coovum assistant. Feel free to ask me about our products, services, or any queries you have."
+    - text: "Greetings from Coovum Ready to help! How may I assist you today?"

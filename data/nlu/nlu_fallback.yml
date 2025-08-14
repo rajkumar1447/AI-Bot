@@ -1,0 +1,16 @@
+version: "3.1"
+
+nlu:
+- intent: nlu_fallback
+  examples: |
+    - abcdxyz
+    - 123456
+    - what is the sky taste of banana
+    - random gibberish
+    - aiwuehfiuwhef
+
+- intent: catch_all
+  examples: |
+    - random message
+    - blah blah
+    - what's the square root of banana
